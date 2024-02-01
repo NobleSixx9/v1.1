@@ -1,0 +1,32 @@
+.bg {
+    height: 700px;
+    background-image: url(assets/IMG-20230115-WA0011.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#button {
+  position: absolute;
+  margin-top: -410px;
+  margin-left: 150px; 
+  background-color: rgba(254, 252, 255, 0.6);
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+}
+
+.rose {
+    height:640px;
+    background-image: url(assets/photo-1496062031456-07b8f162a322.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Roseday {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: -78%;
+    margin-left:60px ;
+}
+
